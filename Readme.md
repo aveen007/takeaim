@@ -43,13 +43,13 @@ TakeAim is a realistic multiplayer first-person shooter game developed in Unity 
 
 ## 🎥 Demo Video
 
-[![TakeAim Demo Video](https://youtu.be/BP_n_MwNSS4?si=v7KFNjaxrNEirJqv)](https://youtu.be/BP_n_MwNSS4?si=v7KFNjaxrNEirJqv)
+[![TakeAim Demo Video](https://img.youtube.com/vi/BP_n_MwNSS4/0.jpg)](https://youtu.be/BP_n_MwNSS4?si=v7KFNjaxrNEirJqv)
 
 
 ## 📥 Download & Play
 
 ### Option 1: Download Executable
-1. Go to the [Releases section](../../releases) of this repository
+1. Go to the [Releases section](Releases/TakeAim1.6.rar) of this repository
 2. Download the latest version (`TakeAim-v1.0.zip`)
 3. Extract the zip file
 4. Run `TakeAim.exe` to play
