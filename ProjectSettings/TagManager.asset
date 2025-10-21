@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - minimap
+  - Water
+  - UI
+  - Terrain
+  - playerIsVisible
+  - playerInvisible
+  - Error
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: minimap
+    uniqueID: 3070435491
+    locked: 0
+  - name: Error
+    uniqueID: 4245297935
+    locked: 0
+  - name: UI
+    uniqueID: 434130105
+    locked: 0
+  - name: playerIsVisible
+    uniqueID: 1928384599
+    locked: 0
+  - name: playerInvisible
+    uniqueID: 139186507
+    locked: 0
